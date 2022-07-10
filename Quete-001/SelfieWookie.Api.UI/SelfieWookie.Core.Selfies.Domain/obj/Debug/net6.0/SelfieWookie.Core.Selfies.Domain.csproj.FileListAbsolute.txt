@@ -1,0 +1,12 @@
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\bin\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.deps.json
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\bin\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.dll
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\bin\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.pdb
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.csproj.AssemblyReference.cache
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.AssemblyInfoInputs.cache
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.AssemblyInfo.cs
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.dll
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\refint\SelfieWookie.Core.Selfies.Domain.dll
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\SelfieWookie.Core.Selfies.Domain.pdb
+C:\Users\Romai\Desktop\dotnet_udemy\Quete-001\SelfieWookie.Api.UI\SelfieWookie.Core.Selfies.Domain\obj\Debug\net6.0\ref\SelfieWookie.Core.Selfies.Domain.dll
